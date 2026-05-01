@@ -1,0 +1,10 @@
+yfinance
+pandas
+numpy
+xgboost
+requests
+python-telegram-bot
+nltk
+scikit-learn
+matplotlib
+nest_asyncio
